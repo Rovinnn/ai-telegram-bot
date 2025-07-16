@@ -5,7 +5,11 @@ from my_tts_util import text_to_wav
 import os
 
 # === Replace with your Telegram Bot Token only ===
+<<<<<<< HEAD
 TELEGRAM_BOT_TOKEN = "your bot token here"
+=======
+TELEGRAM_BOT_TOKEN = "YOUR BOT TOKEN"
+>>>>>>> 99b8705185692a7410583817ddda3ebad663ef4f
 
 # Initialize Telegram bot
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
