@@ -1,0 +1,6 @@
+telebot
+transformers
+torch
+torchvision
+f5-tts
+python-dotenv
