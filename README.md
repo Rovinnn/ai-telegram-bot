@@ -46,3 +46,8 @@ A multi-modal AI Telegram bot that processes all data locally using:
 - Python, Telegram Bot API
 - Gemma LLM, Whisper STT, F5-TTS
 - LM Studio, CUDA, ffmpeg
+
+##Images
+![Bot Screenshot](images/tts_stt.png)
+![Bot Screenshot](images/query.png)
+![LM Studio](images/lm.png)
